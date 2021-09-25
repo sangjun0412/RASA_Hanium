@@ -1,4 +1,4 @@
-from eunjeon import Mecab
+from konlpy.tag  import Mecab
 
 from typing import Any, Optional, Dict, List, Text, Any
 
