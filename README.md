@@ -10,6 +10,9 @@ walrus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어
 
 ./custom/gloVe_featurizer/model/glove.txt
 
+## 🏆 Award
+
+### ✨ 동상 - 한국정보산업연합회장상
 
 ![image description](https://i.esdrop.com/d/igmccyiogpxf/dqDhseWot4.gif)
 
